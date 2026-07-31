@@ -7,7 +7,72 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
+ 
  */
+class Solution {
+private:
+    ListNode* getMid(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+        
+        while (fast != NULL && fast->next != NULL) {
+            fast = fast->next->next;
+            slow = slow->next;
+        }
+        return slow;
+    }
+
+    ListNode* reverse(ListNode* head) {
+        ListNode* curr = head;
+        ListNode* prev = NULL;
+        ListNode* next = NULL;
+        while (curr != NULL) {
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
+    }
+
+public:
+    bool isPalindrome(ListNode* head) {
+        if (head == NULL || head->next == NULL) {
+            return true;
+        }
+
+        
+        ListNode* middle = getMid(head);
+
+      
+        ListNode* temp = middle->next;
+        middle->next = reverse(temp);
+
+        
+        ListNode* head1 = head;
+        ListNode* head2 = middle->next;
+
+        bool isPalindrome = true;
+        while (head2 != NULL) {
+            if (head1->val != head2->val) {
+                isPalindrome = false;
+                break;
+            }
+            head1 = head1->next;
+            head2 = head2->next;
+        }
+
+       
+        temp = middle->next;
+        middle->next = reverse(temp);
+
+        return isPalindrome;
+    }
+};
+ 
+ /* This is the first approach which uses vector to copy contents of
+     a linked list and then apply approach by placing one pointer at
+     start and one at end incrementing start and decrementing end
  #include<vector>
 class Solution {
     private:
@@ -35,4 +100,4 @@ public:
        }
        return checkPalindrome(arr);
     }
-};
+}; */
