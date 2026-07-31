@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0206-reverse-linked-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
