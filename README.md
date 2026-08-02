@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -38,8 +39,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 <!---LeetCode Topics End-->
