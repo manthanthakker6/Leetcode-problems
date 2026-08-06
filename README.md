@@ -50,4 +50,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/manthanthakker6/Leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/manthanthakker6/Leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
