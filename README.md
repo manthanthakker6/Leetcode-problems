@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0134-gas-station](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0134-gas-station/) | Medium |
 | [0496-next-greater-element-i](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0134-gas-station/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manthanthakker6/Leetcode-problems/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 <!---LeetCode Topics End-->
