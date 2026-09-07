@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     int firstUniqChar(string s) {
         int freq[26]={0};
@@ -16,5 +16,27 @@ public:
 
      }
      return q.empty()?-1:q.front().second;
+    }
+};*/
+
+// Method 2 simpler solution
+class Solution {
+public:
+    int firstUniqChar(string s) {
+        // Step 1: Track frequencies of lowercase characters 'a' through 'z'
+        int freq[26] = {0};
+        for (int i=0;i<s.length();i++) {
+            char ch=s[i];
+            freq[ch - 'a']++;
+        }
+        
+        // Step 2: Find the first index with a count of 1
+        for (int i = 0; i < s.length(); i++) {
+            if (freq[s[i] - 'a'] == 1) {
+                return i;
+            }
+        }
+        
+        return -1;
     }
 };
