@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manthanthakker6/Leetcode-problems/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Bracket Sequences
@@ -95,4 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0134-gas-station/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manthanthakker6/Leetcode-problems/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
