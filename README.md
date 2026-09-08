@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0134-gas-station](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0134-gas-station/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Monotonic Stack
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Counting
@@ -115,4 +118,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
