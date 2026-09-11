@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manthanthakker6/Leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/manthanthakker6/Leetcode-problems/tree/main/3870-count-commas-in-range/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
