@@ -136,10 +136,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +150,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
