@@ -9,6 +9,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ //first brute forcr solution
+ /*
 class Solution {
 private:
 int height(TreeNode *root){
@@ -31,5 +33,30 @@ public:
 
        return ans;
 
+    }
+}; */
+class Solution {
+public:
+    // returns pair<diameter, height>
+    pair<int, int> diameterHelper(TreeNode* root) {
+        if (root == nullptr) {
+            return {0, 0};
+        }
+
+        pair<int, int> left = diameterHelper(root->left);
+        pair<int, int> right = diameterHelper(root->right);
+
+        int op1 = left.first;                       // diameter in left subtree
+        int op2 = right.first;                      // diameter in right subtree
+        int op3 = left.second + right.second;       // path passing through root
+
+        int currentDiameter = max({op1, op2, op3});
+        int currentHeight = 1 + max(left.second, right.second);
+
+        return {currentDiameter, currentHeight};
+    }
+
+    int diameterOfBinaryTree(TreeNode* root) {
+        return diameterHelper(root).first;
     }
 };
