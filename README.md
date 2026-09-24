@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,12 +152,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
