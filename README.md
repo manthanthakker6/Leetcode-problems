@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/manthanthakker6/Leetcode-problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manthanthakker6/Leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/manthanthakker6/Leetcode-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/manthanthakker6/Leetcode-problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/manthanthakker6/Leetcode-problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Enumeration
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/manthanthakker6/Leetcode-problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/manthanthakker6/Leetcode-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
